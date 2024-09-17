@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 🙋‍♀️ Dedicado a las personas que buscan acercarse a una experiencia laboral en el mercado TI. Te damos asesoramiento y apoyo, para que te integres en un equipo de trabajo y desarrolles tus habilidades.
-Desde entrevistas, pruebas técnicas y el trabajo en equipo con metodología ágil. Aquí encontrarás una nueva experiencia parecida a los trabajos reales.
+Desde entrevistas, pruebas técnicas y el trabajo en equipo con metodología ágil. Aquí encontrarás una nueva experiencia desarrollando proyectos reales.
 
-🌈 Construye proyectos desde cero o trabaja ya en equipos construidos junto a otras personas, aquí lo importante es generar toda la experiencia necesaria para que puedan encontrar sus primeros trabajos en el área TI. Se parte de una comunidad en la que puedas desenvolverte y alcanzar tu máximo potencial.
+🌈 Construye proyectos junto a otras personas, aquí lo importante es generar toda la experiencia necesaria para que puedan encontrar sus primeros trabajos en el área TI. Se parte de una comunidad en la que puedas desenvolverte y alcanzar tu máximo potencial.
 
 👩‍💻 Recuerda que intentamos hacer esto lo más parecido a una experiencia laboral real, por lo que es importante tener en cuenta que necesitas demostrar compromiso, consistencia y las ganas de querer mejorar. Estarás trabajando en proyectos de equipo (para los proyectos más grandes) y algunos proyectos individuales (para mejorar tu portafolio) por lo que tu disposición es necesaria a la hora de interactuar y hacer entregas.
 
