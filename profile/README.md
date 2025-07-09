@@ -1,50 +1,50 @@
 ## Hi there 👋
 
-🙋‍♀️ **Dedicado a las personas que buscan acercarse a una experiencia laboral real en el mercado TI.**  
-En **Breavance**, te ofrecemos asesoramiento y apoyo para que te integres a equipos de trabajo, desarrolles tus habilidades y adquieras experiencia práctica. Pasarás por entrevistas, pruebas técnicas y trabajarás en equipo bajo metodologías ágiles. Aquí encontrarás una nueva forma de desarrollar proyectos reales.
+🙋‍♀️ **Para quienes buscan crecer profesionalmente en tecnología con experiencia real.**  
+En **Breavance**, formamos talento y desarrollamos software con impacto. Aquí trabajas en proyectos reales, aplicando metodologías ágiles y colaborando con personas de distintos niveles, desde quienes comienzan hasta profesionales con experiencia. Te apoyamos para que desarrolles habilidades, participes en procesos reales de trabajo y ganes experiencia práctica valiosa.
 
-🌈 **Construye proyectos junto a otras personas.**  
-Lo importante es generar toda la experiencia necesaria para que puedas encontrar tu primer trabajo en el área TI. Sé parte de una comunidad que te ayudará a desarrollarte y alcanzar tu máximo potencial.
+🌈 **Construye y crea soluciones que importan.**  
+No solo se trata de aprender, sino de crear productos y servicios digitales propios y para clientes reales, fomentando la innovación y la colaboración para dejar una huella tangible en el mercado tecnológico.
 
-👩‍💻 **Compromiso y consistencia son claves.**  
-Queremos que vivas una experiencia lo más parecida posible a una experiencia laboral real. Trabajarás en proyectos de equipo (para proyectos más grandes) y en algunos proyectos individuales (para mejorar tu portafolio). Por ello, tu disposición para interactuar, entregar trabajos y colaborar es fundamental.
+👩‍💻 **Compromiso, colaboración y aprendizaje constante.**  
+Queremos que vivas una experiencia auténtica, cercana al trabajo profesional. Participarás en equipos que manejan proyectos de distinto tamaño y complejidad, donde tu aporte y disposición para colaborar serán clave.
 
-🍿 **Para ingresar a la comunidad o a un proyecto, deberás pasar por una entrevista.**  
-Puede ser individual o grupal, técnica o de habilidades blandas; no lo sabrás hasta el momento, así que te invitamos a seguir practicando y mejorando tus habilidades. (En el futuro planeamos ofrecer entrevistas en otros idiomas, preferentemente inglés).
+🍿 **Proceso de ingreso basado en entrevistas.**  
+Para sumarte a proyectos o equipos, pasarás por una entrevista (individual o grupal, técnica o de habilidades blandas). Esto nos ayuda a entender tus fortalezas y áreas a mejorar, para apoyarte mejor en tu crecimiento. Próximamente, también tendremos entrevistas en otros idiomas.
 
-🧙 **Nuestros proyectos buscan ser sostenibles y monetizables, trabajando incluso con clientes reales.**  
-Te apoyamos para que crees soluciones que no solo sean útiles, sino también escalables. Recuerda, nosotros mismos somos responsables de nuestro destino, pero un buen apoyo de networking nunca está de más. 😎
+🧙 **Proyectos con impacto real y sostenibles.**  
+Trabajamos para que los productos y soluciones que desarrollamos sean útiles, escalables y puedan monetizarse, incluyendo colaboración con clientes reales. En Breavance, tu crecimiento profesional va de la mano con la generación de valor tangible.
 
 ---
 
 ## ¿Qué es Breavance?
 
-**Breavance** es una plataforma gratuita enfocada en ayudar a personas que están iniciando su carrera en el sector de TI. Nuestra misión es ofrecer una experiencia laboral auténtica, donde los participantes tienen la oportunidad de trabajar en proyectos reales, ganar experiencia práctica y desarrollar su portafolio de manera organizada y profesional.
+**Breavance** es una empresa y comunidad tecnológica que combina formación práctica con el desarrollo de productos y servicios digitales reales. Aquí, personas en distintos niveles —desde estudiantes hasta profesionales experimentados— colaboran para crear soluciones que generan impacto y aportan valor al mercado.
 
 ### ¿Cómo Funciona?
 
 1. **Entrevista:**  
-   Pasarás por una entrevista (individual o grupal, técnica o de habilidades blandas) para ingresar a la comunidad. Recibirás retroalimentación y podrás mejorar en los siguientes intentos si es necesario.
+   Pasarás por una entrevista para evaluar tu perfil y prepararte mejor para el trabajo real. Recibirás feedback para que sigas mejorando.
 
 2. **Práctica:**  
-   Después de la entrevista, tendrás una o dos semanas de proyectos de práctica para fortalecer tus habilidades y mejorar tu portafolio.
+   Comenzarás con proyectos para fortalecer tus habilidades y construir un portafolio sólido.
 
 3. **Desarrollo de Proyectos:**  
-   Empezarás a trabajar en **tickets** dentro de proyectos reales, contribuyendo con código y soluciones.
+   Participarás en proyectos reales, aportando con código, diseño o gestión según tus competencias.
 
 4. **Crecimiento y Liderazgo:**  
-   A medida que demuestres tu compromiso, podrás optar por convertirte en **Team Leader** y liderar equipos y proyectos, con el apoyo continuo de la comunidad.
+   Podrás asumir roles de liderazgo y coordinación, apoyado por la comunidad y los mentores.
 
 ---
 
 ## ¿Por Qué Elegir Breavance?
 
-- **Todo es gratuito:** Participa en proyectos reales sin costo alguno.
-- **Proyectos reales y sostenibles:** Trabaja en proyectos con impacto real, enfocados en ser escalables y monetizables, incluso con clientes reales.
-- **Mentoría personalizada:** Recibe apoyo constante para mejorar tu portfolio y tus habilidades.
-- **Oportunidades de crecimiento:** Si te comprometes, puedes escalar hacia roles de liderazgo y contribuir a la dirección de proyectos.
-- **Networking global:** Colabora con personas de diferentes países y culturas para enriquecer tu experiencia.
+- **Experiencia real:** Trabaja en proyectos con impacto y sostenibilidad.
+- **Formación + desarrollo::** Aprende mientras contribuyes en proyectos de software reales.
+- **Mentoría continua:** Recibe apoyo personalizado para tu crecimiento profesional.
+- **Oportunidades de liderazgo:** Avanza en tu carrera dentro de equipos y proyectos.
+- **Red global:** Conecta y colabora con personas de diferentes países y experiencias.
 
 ---
 
-**¡Únete a Breavance y comienza tu camino hacia el éxito en TI!**
+**¡Únete a Breavance y transforma tu aprendizaje en experiencia y valor real en tecnología!**
